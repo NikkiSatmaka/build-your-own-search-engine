@@ -10,6 +10,10 @@ dependencies = []
 dev = [
     "ipykernel>=6.29.5",
     "niquests>=3.14.0",
+    "orjson>=3.10.16",
     "polars[pandas]>=1.26.0",
+    "rich>=14.0.0",
     "scikit-learn>=1.6.1",
+    "torch>=2.6.0",
+    "transformers>=4.50.3",
 ]
